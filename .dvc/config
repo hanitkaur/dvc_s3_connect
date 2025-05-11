@@ -1,0 +1,4 @@
+[core]
+    remote = hanitdvcstore
+['remote "hanitdvcstore"']
+    url = s3://dvc-bucket-hanit
